@@ -1,6 +1,5 @@
 # Group-Project-unit-8-13
-# Milestone 1 - APP_NAME_HERE
-
+Dr. Deng Cao
 ## Table of Contents
 
 1. [Overview](#Overview)
